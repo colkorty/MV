@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M&amp;V</string>
+    <string name="date_for_read">Где ты будешь читать сегодня?</string>
+    <string name="gallery">Галерея</string>
+    <string name="spin">Крутить!</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="transform">Превратить!</string>
+    <string name="transformed_text">ЗдЕсЬ бУдЕт ВаШ тЕкСт</string>
+
+</resources>

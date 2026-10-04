@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        M (Move) - переместить перо
+        V (Vertical line) - вертикальная линия
+        H (Horizontal line) - горизонтальная линия
+        A (Arc) - закругление (арка)
+    -->
+
+    <item
+        android:width="30dp"
+        android:height="30dp"
+        android:gravity="top|left">
+        <vector
+            android:width="30dp"
+            android:height="30dp"
+            android:viewportWidth="30"
+            android:viewportHeight="30">
+            <path
+                android:pathData="M 2,12 V 7 A 5,5 0 0 1 7,2 H 12"
+                android:strokeColor="@color/stroke"
+                android:strokeWidth="4"
+                android:strokeLineCap="round" />
+        </vector>
+    </item>
+
+    <item
+        android:width="30dp"
+        android:height="30dp"
+        android:gravity="top|right">
+        <vector
+            android:width="30dp"
+            android:height="30dp"
+            android:viewportWidth="30"
+            android:viewportHeight="30">
+            <path
+                android:pathData="M 18,2 H 23 A 5,5 0 0 1 28,7 V 12"
+                android:strokeColor="@color/stroke"
+                android:strokeWidth="4"
+                android:strokeLineCap="round" />
+        </vector>
+    </item>
+
+    <item
+        android:width="30dp"
+        android:height="30dp"
+        android:gravity="bottom|right">
+        <vector
+            android:width="30dp"
+            android:height="30dp"
+            android:viewportWidth="30"
+            android:viewportHeight="30">
+            <path
+                android:pathData="M 28,18 V 23 A 5,5 0 0 1 23,28 H 18"
+                android:strokeColor="@color/stroke"
+                android:strokeWidth="4"
+                android:strokeLineCap="round" />
+        </vector>
+    </item>
+
+    <item
+        android:width="30dp"
+        android:height="30dp"
+        android:gravity="bottom|left">
+        <vector
+            android:width="30dp"
+            android:height="30dp"
+            android:viewportWidth="30"
+            android:viewportHeight="30">
+            <path
+                android:pathData="M 12,28 H 7 A 5,5 0 0 1 2,23 V 18"
+                android:strokeColor="@color/stroke"
+                android:strokeWidth="4"
+                android:strokeLineCap="round" />
+        </vector>
+    </item>
+</layer-list>

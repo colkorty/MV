@@ -1,0 +1,12 @@
+<resources>
+    <style name="Base.Theme.MV" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:navigationBarColor">@color/grey</item>
+        <item name="android:statusBarColor">@color/grey</item>
+    </style>
+    <style name="Theme.MV" parent="Base.Theme.MV" />
+
+    <style name="RoundedImage" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+</resources>
