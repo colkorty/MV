@@ -5,17 +5,22 @@ Have only Russian translate
 
 <table>
   <tr>
-    <td><img src="for_README/1.jpg"/></td>
-    <td><img src="for_README/2.jpg"/></td>
-    <td><img src="for_README/3.jpg"/></td>
-    <td><img src="for_README/4.jpg"/></td>
-    <td><img src="for_README/5.jpg"/></td>
-    <td><img src="for_README/6.jpg"/></td>
-    <td><img src="for_README/7.jpg"/></td>
-    <td><img src="for_README/8.jpg"/></td>
-    <td><img src="for_README/9.jpg"/></td>
+    <td><img src="for_README/1.jpg" width="220"/></td>
+    <td><img src="for_README/2.jpg" width="220"/></td>
+    <td><img src="for_README/3.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="for_README/4.jpg" width="220"/></td>
+    <td><img src="for_README/5.jpg" width="220"/></td>
+    <td><img src="for_README/6.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="for_README/7.jpg" width="220"/></td>
+    <td><img src="for_README/8.jpg" width="220"/></td>
+    <td><img src="for_README/9.jpg" width="220"/></td>
   </tr>
 </table>
+
 
 ### Made in honor of Masha.
 
@@ -28,15 +33,19 @@ Have only Russian translate
 
 <table>
   <tr>
-    <td><img src="for_README/1.jpg"/></td>
-    <td><img src="for_README/2.jpg"/></td>
-    <td><img src="for_README/3.jpg"/></td>
-    <td><img src="for_README/4.jpg"/></td>
-    <td><img src="for_README/5.jpg"/></td>
-    <td><img src="for_README/6.jpg"/></td>
-    <td><img src="for_README/7.jpg"/></td>
-    <td><img src="for_README/8.jpg"/></td>
-    <td><img src="for_README/9.jpg"/></td>
+    <td><img src="for_README/1.jpg" width="220"/></td>
+    <td><img src="for_README/2.jpg" width="220"/></td>
+    <td><img src="for_README/3.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="for_README/4.jpg" width="220"/></td>
+    <td><img src="for_README/5.jpg" width="220"/></td>
+    <td><img src="for_README/6.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="for_README/7.jpg" width="220"/></td>
+    <td><img src="for_README/8.jpg" width="220"/></td>
+    <td><img src="for_README/9.jpg" width="220"/></td>
   </tr>
 </table>
 
